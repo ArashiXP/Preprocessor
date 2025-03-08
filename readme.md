@@ -9,6 +9,7 @@
 
 
 # How to use:  
-1) Put new document as a txt file into newDocumentsFolder
-2) run the script  
+1) Start virtual environment (see above)
+2) Put new document as a txt file into newDocumentsFolder
+3) run the script  
 > python preprocess.py
