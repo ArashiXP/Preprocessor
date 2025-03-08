@@ -1,3 +1,7 @@
+### Stormy's Document Preprocessor  
+
+*this script will take new documents and convert them into small chunks for emedding conversions or what have you*
+
 ## Download virtual environment   
 > python3 -m venv .venv  
 
