@@ -1,5 +1,5 @@
 ## Download virtual environment   
-python3 -m venv .venv  
+> python3 -m venv .venv  
 
 ## start virtual environment**  
 > source .venv/bin/activate  
@@ -8,7 +8,7 @@ python3 -m venv .venv
 > python install_requirements.python  
 
 
-How to use:  
+# How to use:  
 1) Put new document as a txt file into newDocumentsFolder
 2) run the script  
 > python preprocess.py
