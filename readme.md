@@ -1,4 +1,4 @@
-### Stormy's Document Preprocessor  
+# Stormy's Document Preprocessor  
 
 *this script will take new documents and convert them into small chunks for emedding conversions or what have you*
 
