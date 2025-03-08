@@ -5,11 +5,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 1,
             "keywords": [
-                "physicist",
-                "oppenheimer",
-                "oppenheimer 1904",
+                "prominent scientists",
                 "prominent",
-                "theoretical"
+                "robert",
+                "physicist prominent",
+                "robert oppenheimer"
             ],
             "entities": [
                 [
@@ -37,11 +37,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 2,
             "keywords": [
-                "war",
-                "father atomic",
+                "director manhattan",
                 "referred",
+                "manhattan project",
                 "atomic bomb",
-                "manhattan project"
+                "bomb role"
             ],
             "entities": [
                 [
@@ -61,11 +61,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 3,
             "keywords": [
-                "oppenheimer born",
-                "york",
-                "oppenheimer",
+                "new",
                 "wealthy jewish",
-                "new"
+                "1904",
+                "york",
+                "wealthy"
             ],
             "entities": [
                 [
@@ -93,11 +93,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 4,
             "keywords": [
-                "harvard",
-                "talent",
-                "showed",
+                "degree harvard",
                 "university 1925",
-                "chemistry young"
+                "harvard university",
+                "talent",
+                "university"
             ],
             "entities": [
                 [
@@ -117,11 +117,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 5,
             "keywords": [
-                "studied",
+                "university g\u00f6ttingen",
+                "pursued",
+                "physicists",
                 "germany studied",
-                "g\u00f6ttingen",
-                "renowned",
-                "pursued"
+                "university"
             ],
             "entities": [
                 [
@@ -149,11 +149,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 6,
             "keywords": [
+                "weapons",
+                "new",
                 "project",
-                "oppenheimer",
                 "project oppenheimer",
-                "manhattan project",
-                "new"
+                "los alamos"
             ],
             "entities": [
                 [
@@ -185,11 +185,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 7,
             "keywords": [
-                "1945 new",
+                "took",
+                "1945",
                 "atomic bomb",
                 "trinity",
-                "bomb codenamed",
-                "test"
+                "1945 new"
             ],
             "entities": [
                 [
@@ -213,11 +213,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 8,
             "keywords": [
-                "marked",
-                "beginning",
                 "test marked",
+                "beginning",
+                "beginning atomic",
                 "atomic age",
-                "age"
+                "atomic"
             ],
             "entities": []
         }
@@ -228,11 +228,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 9,
             "keywords": [
-                "power",
+                "oppenheimer advocate",
                 "hydrogen bomb",
-                "war",
-                "oppenheimer",
-                "war oppenheimer"
+                "war oppenheimer",
+                "control nuclear",
+                "power"
             ],
             "entities": [
                 [
@@ -248,11 +248,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 10,
             "keywords": [
-                "political",
-                "wing",
-                "controversial security",
                 "security clearance",
-                "stripped"
+                "stripped",
+                "1954 stripped",
+                "views",
+                "controversial security"
             ],
             "entities": [
                 [
@@ -268,11 +268,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 11,
             "keywords": [
-                "oppenheimer continued",
-                "oppenheimer",
+                "despite",
                 "contribute science",
                 "science education",
-                "education"
+                "education",
+                "oppenheimer continued"
             ],
             "entities": [
                 [
@@ -288,11 +288,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 12,
             "keywords": [
-                "princeton",
-                "study princeton",
-                "young physicists",
+                "physicists",
                 "study",
-                "princeton new"
+                "study princeton",
+                "young",
+                "served"
             ],
             "entities": [
                 [
@@ -316,10 +316,10 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 13,
             "keywords": [
-                "nuclear weapons",
-                "remembered ethical",
-                "oppenheimer",
-                "use nuclear",
+                "oppenheimer legacy",
+                "remembered",
+                "weapons",
+                "use",
                 "scientific"
             ],
             "entities": [
@@ -336,11 +336,11 @@
             "source": "J. Robert Oppenheimer - The Father of the Atomic Bomb.txt",
             "chunk_id": 14,
             "keywords": [
-                "impact",
                 "history",
+                "1967",
                 "18 1967",
-                "1967 leaving",
-                "died february"
+                "science",
+                "science history"
             ],
             "entities": [
                 [
