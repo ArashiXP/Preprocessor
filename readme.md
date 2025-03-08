@@ -1,7 +1,7 @@
 ## Download virtual environment   
 > python3 -m venv .venv  
 
-## start virtual environment**  
+## Start virtual environment   
 > source .venv/bin/activate  
 
 ## If first time, then install requirments
