@@ -9,7 +9,7 @@
 > source .venv/bin/activate  
 
 ## If first time, then install requirments
-> python install_requirements.python  
+> python install_requirements.py  
 
 
 # How to use:  
