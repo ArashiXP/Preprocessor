@@ -45,3 +45,6 @@ logs/
 dist/
 build/
 *.egg-info/
+
+# --- .env for API keys ---
+.env
